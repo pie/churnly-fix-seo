@@ -36,4 +36,4 @@ function override_seo_reload() {
 		}
 	}
 }
-add_action( 'template_redirect', 'PIE\ChurnlySEOFix\override_seo_reload' );
+add_action( 'template_redirect', __NAMESPACE__ . '\\override_seo_reload' );
