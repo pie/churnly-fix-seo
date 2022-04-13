@@ -1,6 +1,6 @@
 <?php
 /*
-Plugin Name: Fix Churnly Notifications
+Plugin Name: Churnly Fix Notifications
 Description: Adds a fix to bypass Yoast SEO's reload so that notifications display as expected on Update Credit Card page
 Version: 0.1
 Author: The team at PIE
